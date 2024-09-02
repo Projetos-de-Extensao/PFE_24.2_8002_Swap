@@ -13,6 +13,10 @@
 -aceitar swap
 -recusar swap
 -pagar pelo acesso da aula
+  -funcionalidade de pagamento
+    -cadastro de cartão de crédito
+    -pix
+    -...
 -personalização de perfil:
   suas habilidades à oferecer
   habilidades que voê deseja aprender
