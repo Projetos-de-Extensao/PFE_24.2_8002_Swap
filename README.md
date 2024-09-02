@@ -5,14 +5,14 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 202102368618 | Bernardo Bouzoumet James |
+| 202102368618 | Bernardo Bonzoumet James |
 | 202102209625 | Bernardo Paschoal Antunes |
-| 202102527325 | Gabriel Zaharoff Laje |
-| 202102307279 | Matheus de Souza Jannotti |
+| 202102527325 | Gabriel Zaharoff Corrêa Lage |
+| 202102307279 | Matheus de Souza Jannotti de Oliveira |
 | 202102368601 | Vinícius Mendes de Moura |
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais. 
+Swap é um aplicativo de troca de habilidades, de conhecimento, onde os usuários terão a possibilidade de postar "aulas" sobre assuntos diversos nos quais tem domínio, com o conteúdo postado, os outros usuários poderão entrar com uma troca do conteúdo por algo que os mesmos criaram do próprio interesse.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
