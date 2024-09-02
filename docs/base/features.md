@@ -10,6 +10,7 @@
   stop
 -search: POSSIBILIDADE DE PROCURAR SWAPS/SKILLS
 -dar feedback em estrelas para cada swap
+- favoritar swap
 -aceitar swap
 -recusar swap
 -pagar pelo acesso da aula
