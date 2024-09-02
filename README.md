@@ -1,6 +1,5 @@
 # SWAP
 
-**Número do Grupo**: XX<br>
 **Código da Disciplina**: 8002<br>
 
 ## Alunos
