@@ -22,39 +22,37 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 ### 1. Qual o objetivo principal da aplicação?
  
 <p align = "justify">
-<b>XXXX</b> - Deve ser uma plataforma onde qualquer pessoa possa...
+<b>XXXX</b> - Deve ser uma plataforma onde qualquer pessoa possa demonstrar suas habilidades e ver as de outras pessoas.
 </p>
  
-<b>ZZZ</b> - A plataforma deve fornece...
+<b>ZZZ</b> - A plataforma deve fornecer interfaces nas quais sejam possíveis para os usuários utilizarem propriamente o aplicativo.
  
-<b>YYYY</b> - O objetivo da aplicação é....
+<b>YYYY</b> - O objetivo da aplicação é incentivar pessoas a se desenvolverem e achar novos hobbies.
  
-<b>WWWW</b> - O principal objetivo da aplicação é a...
- 
-<b>KKKK</b> - A plataforma deve gerenciar...
+<b>KKKK</b> - A plataforma deve gerenciar os cadastros dos clientes, junto dos vídeos e as mídias fornecidas pelos mesmos.
 </p>
  
 ---
  
-### 2. Como será o processo para cadastrar um novo clientetorneio?
+### 2. Como será o processo para cadastrar um novo cliente?
  
 <p align = "justify">
-<b>XXXX</b> - O moderador deverá fazer login e...
+<b>XXXX</b> - O moderador deverá fazer login e ter a possibilidade de ver os clientes.
  
-<b>YYYY</b> - O cliente...
+<b>YYYY</b> - O cliente deverá fornecer um nome de usuário e senha.
  
-<b>WWWW</b> - Com o usuário logado, ele deverá...
+<b>WWWW</b> - Com o usuário logado, ele deverá confirmar a identidade.
 
-<b>ZZZZ</b> - O cliente...
+<b>ZZZZ</b> - O cliente poderá utilizar a plataforma somente após do cadastro.
  
-<b>KKK</b> - O cliente...
+<b>KKK</b> - O cliente poderá personalizar o perfil.
  
 ---
  
-### 3. Como será a forma de adicionar produtos?
+### 3. Como será a forma de adicionar vídeos/áudios?
  
 <p align = "justify">
-<b>XXXX</b> - O cliente ao cadastrar...
+<b>XXXX</b> - O cliente ao cadastrar terá uma tela para fazer upload um vídeo ou áudio.
 </p>
  
 <p align = "justify">
