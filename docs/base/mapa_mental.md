@@ -21,7 +21,7 @@ fomos levantando pontos importantes sobre o aplicativo "Swap" e colocamos tudo n
  
 ### Mapa mental 1
  
-[![Mapa mental Entrevista](docs/assets/MINDMAP.png)](docs/assets/MINDMAP.png)
+<img src="/docs/assets/MINDMAP.png" alt="Mapa Mental Swap">
  
 ## Conclusão
  
@@ -30,14 +30,11 @@ O mapa mental é uma ficha de estudos que ajuda a dar uma visão geral do tema, 
 </p>
  
 ## Referências
-> Mapa MentalXXX,  Disponível em: https://www.....
+> Mapa MentalXXX,  Disponível em: [MIND MAP](docs/assets/MINDMAP.png)
  
-> Ferramentas para Mapas Mentais. Disponível em: https://www....
- 
-> Plataforma para usuários colaborar no desenho... Disponível em: https://...
+> Ferramentas para Mapas Mentais. Disponível em: [CANVA](https://www.canva.com/)
  
 ## Versionamento
 | Data | Versão | Descrição | Autor(es) |
-| -- | -- | -- | -- |
-| dd/mm/yy | 1.0 | Criação do documento | xxx xxxx |
-| dd/mm/yy | 2.0 | Adicionado Mapa mental 2 | xxxx xxxx |
+| 15/09 | 1.0 | Mind Map | Matheus Jannotti, Bernardo Paschoal, Vinicius Mendes, Bernardo James e Gabriel Lage |
+
