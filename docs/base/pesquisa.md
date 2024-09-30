@@ -23,3 +23,4 @@
 - Playlist: Criação de playlists personalizadas com recomendações baseadas em suas preferências. Playlists colaborativas e exclusivas.
 - Busca: Busca por músicas, álbuns e podcasts, com recomendações automáticas de acordo com o histórico.
 - Explorar: Recomendação de playlists baseadas no "Flow" pessoal, novos lançamentos, e seções por gênero e momento do dia.
+
