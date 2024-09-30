@@ -2,8 +2,8 @@
 - Player: Interface intuitiva com controles básicos (play/pause, pular, retroceder), suporte a letras em tempo real e equalizador integrado. Sincroniza com diversos dispositivos.
 - Playlist: Permite criar, editar e compartilhar playlists. Oferece playlists colaborativas e sugere novas músicas com base no gosto do usuário.
 - Busca: Sistema eficiente, permitindo a busca por artistas, álbuns, músicas e podcasts. Sugestões de acordo com o histórico do usuário.
-2. Explorar: Oferece recomendações personalizadas, playlists curadas e categorias por gênero, humor, e tendências.
-- Apple Music
+- Explorar: Oferece recomendações personalizadas, playlists curadas e categorias por gênero, humor, e tendências.
+2. Apple Music
 - Player: Simples e elegante, com controle de reprodução e qualidade de som ajustável. Oferece letras sincronizadas.
 - Playlist: Criação e curadoria manual, com playlists automáticas baseadas no que o usuário escuta. Suporte a compartilhamento.
 - Busca: Busca rápida com filtros para músicas, álbuns, playlists e vídeos. Mostra tendências e lançamentos.
