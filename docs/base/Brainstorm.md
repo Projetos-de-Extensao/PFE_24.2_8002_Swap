@@ -32,7 +32,7 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 <b>Matheus</b> - O principal objetivo seria dar possibilidade dos usuários de se desenvolverem em diferentes áreas e acharem novos hobbies.
 </p>
 
-<b>Bernardo Paschoal</b> -
+<b>Bernardo Paschoal</b> - Promover a interação entre pessoas de diferentes ramos, compartilhando seus respectivos conhecimentos.
 
 ---
  
@@ -47,7 +47,7 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 
 <b>Matheus</b> - O cliente deverá fornecer as informações necessárias.
  
-<b>Bernardo Paschoal</b> - 
+<b>Bernardo Paschoal</b> - O cliente deve inserir seu Nome, Senha, Email e CPF.
  
 ---
  
@@ -65,7 +65,7 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
  
 <b>Matheus</b> - O cliente deverá colocar as infromações necessárias tipo descrição e título. 
 
-<b>Bernardo Paschoal</b> -
+<b>Bernardo Paschoal</b> - O cliente deve escolher um título e uma descrição, juntamente ao vídeo selecionado.
 
 ---
  
@@ -80,7 +80,7 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 
 <b>Matheus</b> - Utilizará a ferramenta da upload do site.
 
-<b>Bernardo Paschoal</b> -
+<b>Bernardo Paschoal</b> -Por meio do upload de vídeos.
 
 ---
 
@@ -94,7 +94,7 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 
    <b>Matheus</b> - Áreas de interesse, visualizações, comentários e os likes dos vídeos.
 
-   <b>Bernardo Paschoal</b> -
+   <b>Bernardo Paschoal</b> - Categoria do vídeo, idioma, data do vídeo, likes.
 </p>
 
 ---
