@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+### **SWAP**
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**Código da Disciplina**: 8002<br>
 
-## Commands
+##### **Alunos**
+|Matrícula | Aluno |
+| -- | -- |
+| 202102368618 | Bernardo Bonzoumet James |
+| 202102209625 | Bernardo Paschoal Antunes |
+| 202102527325 | Gabriel Zaharoff Corrêa Lage |
+| 202102307279 | Matheus de Souza Jannotti de Oliveira |
+| 202102368601 | Vinícius Mendes de Moura |
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+#### **Sobre** 
+Swap é um aplicativo de troca de habilidades, de conhecimento, onde os usuários terão a possibilidade de postar "aulas" sobre assuntos diversos nos quais tem domínio, com o conteúdo postado, os outros usuários poderão entrar com uma troca do conteúdo por algo que os mesmos criaram do próprio interesse.
