@@ -1,8 +1,20 @@
 import React from 'react';
-import { FaCamera, FaHome, FaCog } from 'react-icons/fa';
+import { FaCamera, FaHome, FaCog} from 'react-icons/fa';
+import { VscAccount } from 'react-icons/vsc'
+import { useNavigate } from 'react-router-dom';
 import './Feed.css';
 
 function Sidebar() {
+  const navigate = useNavigate();
+
+  const goToFeed = () => {
+    navigate('/feed');
+  };
+
+  const goToProfile = () => {
+    navigate('/perfil');
+  }
+
   return (
     <div className="sidebar">
       <div className="logo">
@@ -18,14 +30,14 @@ function Sidebar() {
           <FaCamera size={20} />
           <span>Criar</span>
         </div>
-        <div className="menu-item">
+        <div className="menu-item" onClick={goToFeed}>
           <FaHome size={20} />
           <span>Página Inicial</span>
         </div>
       </nav>
-      <div className="settings">
-        <FaCog size={20} />
-        <span>Configurações</span>
+      <div className="settings" onClick={goToProfile}>
+      <VscAccount size={20} />
+        <span>Perfil</span>
       </div>
     </div>
   );

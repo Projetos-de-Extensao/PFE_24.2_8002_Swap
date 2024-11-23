@@ -4,8 +4,7 @@ import Home from './Home';
 import Login from './Login';
 import Cadastro from './Cadastro';
 import Feed from './Feed';
-
-
+import  Perfil from './Perfil';
 
 function App() {
   return (
@@ -14,6 +13,8 @@ function App() {
       <Route path="/login" element={<Login />} />
       <Route path="/cadastro" element={<Cadastro />} />
       <Route path="/feed" element={<Feed />} />
+      <Route path="/perfil" element={<Perfil />} />
+
     </Routes>
   );
 }

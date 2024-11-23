@@ -1,0 +1,144 @@
+.app-container {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+  }
+  
+  .sidebar {
+    width: 200px;
+    background-color: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px 0;
+    position: fixed;
+    height: 100%;
+  }
+  
+  .content-area {
+    margin-left: 200px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .info-perfil {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-top: 40px;
+  }
+  
+  .profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid black;
+    margin-right: 20px;
+  }
+  
+  .profile-details {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .user-name {
+
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  
+  .video-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    gap: 20px;
+    padding: 20px;
+    margin-top: 20px;
+    grid-template-rows: auto; 
+  }
+  
+  
+  .video-card {
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  
+  .thumbnail {
+    width: 100%;
+    height: 250px;
+    background-color: #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    object-fit: cover;
+    font-size: 16px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  
+  .creator-info {
+    font-size: 12px;
+    color: #777;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .sidebar .logo {
+    text-align: center;
+  }
+  
+  .sidebar .logo h1 {
+    font-size: 24px;
+    margin: 10px 0;
+  }
+  
+  .sidebar .menu {
+    margin-top: 20px;
+  }
+  
+  .sidebar .menu-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .sidebar .menu-item span {
+    margin-left: 10px;
+  }
+  
+  .sidebar .settings {
+    margin-top: auto;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .sidebar .settings span {
+    margin-left: 10px;
+  }
