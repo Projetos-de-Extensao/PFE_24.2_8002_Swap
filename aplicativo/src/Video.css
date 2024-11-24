@@ -1,4 +1,5 @@
 
+
 .app-container {
     display: flex;
     height: 100vh;
@@ -66,7 +67,6 @@
   
   
   .video-visualizer-card {
-    background-color: #f2f2f2;
     border-radius: 5px;
     padding-right: 9%;
     padding-left: 9%;
