@@ -79,13 +79,13 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 
 **Gabriel** - Tema do vídeo, data do vídeo, lingua do vídeo, visualizações
    
-**Vinicius - Tema, idioma, data, views.
+**Vinicius** - Tema, idioma, data, views.
 
 **Bernardo James** - Temas de interesse, idioma, visualizações, título.
 
-**Matheus - Áreas de interesse, visualizações, comentários e os likes dos vídeos.
+**Matheus** - Áreas de interesse, visualizações, comentários e os likes dos vídeos.
 
-**Bernardo Paschoal - Categoria do vídeo, idioma, data do vídeo, likes.
+**Bernardo Paschoal** - Categoria do vídeo, idioma, data do vídeo, likes.
 
 ---
  
