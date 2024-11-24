@@ -5,18 +5,20 @@ title: Documento de Visão
 
 ## Introdução
 
-O propósito deste documento é fornecer uma visão geral sobre o projeto da aplicação de troca de conhecimento. Este projeto visa criar uma plataforma onde usuários possam compartilhar e adquirir conhecimentos em diversas áreas, promovendo a colaboração e o desenvolvimento pessoal e profissional. Neste documento, serão descritas de maneira resumida as principais funcionalidades, usabilidades, o problema que será abordado e os objetivos da equipe de desenvolvimento.
+Vivemos em um mundo onde o acesso ao conhecimento está mais democratizado do que nunca, mas muitas vezes fragmentado. Uma plataforma para a troca de conhecimentos pode transformar essa realidade, criando um espaço centralizado onde indivíduos compartilhem seus saberes e aprendam com os outros, fortalecendo uma comunidade global de aprendizado colaborativo.
 
 
 ## Descrição do Problema 
 
 
-Na era digital, há uma abundância de informações dispersas em diversas plataformas, o que pode dificultar o gerenciamento e a organização de conteúdos de aprendizado. A ausência de um sistema centralizado para troca de conhecimento entre indivíduos dificulta o acesso a conteúdos relevantes e de qualidade. Além disso, a dificuldade em conectar especialistas e aprendizes de forma eficiente limita o potencial de aprendizado colaborativo.
+Atualmente, existem inúmeras fontes de aprendizado online, mas elas frequentemente sofrem com:
+
+Falta de interação direta entre quem ensina e quem aprende, dificuldade em encontrar conteúdos confiáveis e acessíveis, ausência de reconhecimento para aqueles que compartilham seu conhecimento, limitação de recursos personalizados para atender diferentes estilos e ritmos de aprendizado.
 
 
 ### Problema
 
-Dificuldade em gerenciar e organizar conteúdos de aprendizado em um único local de fácil acesso, onde usuários possam compartilhar e adquirir conhecimentos de maneira colaborativa e interativa.
+O conhecimento está disperso e nem sempre acessível de maneira interativa e colaborativa. Plataformas convencionais tendem a ser unidirecionais, priorizando o consumo passivo em vez de promover a troca ativa de experiências e saberes entre pessoas.
 
 ### Impactados
 
@@ -24,43 +26,29 @@ Usuários que buscam aprender ou compartilhar conhecimento, especialmente em pla
 
 ### Consequência
 
-A criação de novos conhecimentos e o compartilhamento de informações tornam-se desorganizados, o que leva à perda de oportunidades para aprendizes e mentores se conectarem e colaborarem de forma eficaz.
+Essa lacuna reduz as oportunidades de aprendizado significativo e a valorização de quem possui conhecimento para compartilhar. Pessoas com habilidades e experiências valiosas não têm canais adequados para divulgá-las, enquanto aprendizes perdem a chance de acessar fontes diversificadas e personalizadas.
 
 ### Solução
 
-Utilizar a aplicação de troca de conhecimento que será desenvolvida para centralizar e facilitar a colaboração entre mentores e aprendizes. A plataforma permitirá a criação e o consumo de conteúdos educativos de diversas áreas, promovendo interações produtivas entre os usuários.
+Uma plataforma dedicada à troca de conhecimentos, onde:
+
+Usuários podem compartilhar expertise em qualquer área (educação, arte, ciência, habilidades práticas, entre outros), aprendizes têm acesso a conteúdos personalizados e interação direta com os mentores, um sistema de gamificação e feedback valoriza as contribuições e incentiva a participação, a comunidade colabora para validar e enriquecer o conhecimento compartilhado.
 
 ## Objetivos
 
-O objetivo da equipe de desenvolvimento é fornecer uma plataforma intuitiva e acessível, que permita aos usuários compartilhar e adquirir conhecimento de maneira organizada, colaborativa e interativa. A aplicação deve facilitar a conexão entre mentores e aprendizes, promovendo o desenvolvimento pessoal e profissional dos participantes.
-
-
-## Descrição do Usuário 
-
-Os usuários da aplicação serão divididos em dois grandes grupos: os mentores, que compartilham seus conhecimentos em diversas áreas, e os aprendizes, que buscam adquirir novos conhecimentos. Ambos os grupos poderão interagir por meio de fóruns de discussão, comentários em conteúdos e workshops ao vivo. A aplicação também permitirá que os usuários personalizem seus perfis e áreas de interesse, garantindo uma experiência mais focada.
-</p>
-
-## Recursos do Produto
-
-### Conta
-
-Os usuários poderão realizar o cadastro na plataforma utilizando e-mail ou login social (Google, Facebook, LinkedIn). O sistema permitirá a personalização de perfis e a configuração de áreas de interesse para receber recomendações personalizadas.
-
+Facilitar o compartilhamento de conhecimento de forma acessível e democrática.
+Promover a aprendizagem colaborativa e interativa.
+Valorizar os contribuidores por meio de reconhecimento e incentivos.
+Construir uma comunidade diversificada e inclusiva de aprendizado.
+Disponibilizar uma interface amigável e ferramentas interativas.
 
 ### Compartilhamento de Conteúdo
 
-Os mentores poderão cadastrar e compartilhar conteúdos em diversos formatos, como vídeos, textos, tutoriais e quizzes. A aplicação oferecerá ferramentas para organização e categorização do conteúdo por temas e níveis de dificuldade.
-
+Os usuários poderão cadastrar e compartilhar conteúdos como vídeos e áudios. A aplicação oferecerá ferramentas para organização e categorização do conteúdo por temas atrvés de filtros.
 
 ### Interação Social
 
-Os usuários poderão interagir por meio de fóruns de discussão, sessões de perguntas e respostas, e chats ao vivo durante eventos ou workshops. Além disso, será possível enviar mensagens privadas para conectar mentores e aprendizes diretamente.
-
-
-### Gamificação
-
-A plataforma contará com recursos de gamificação, onde os usuários poderão acumular pontos, conquistar badges e figurar em rankings de participação, incentivando o engajamento e a contribuição contínua.
-
+Os usuários poderão interagir de mensagens e comentários. As mensagens serão para pedir o "Swap", aceitando ou recusando a oferta.
 
 ## Restrições
 
@@ -70,4 +58,4 @@ A aplicação não será responsável pela certificação formal dos conteúdos 
 
 | Data       | Versão | Descrição          | Autor(es)        |
 |------------|--------|--------------------|------------------|
-| DD/MM/YYYY | 1.0    | Criação do documento | Equipe de Desenvolvimento |
+| 24/11/2024 | 1.0    | Criação do documento | Equipe de Desenvolvimento |
