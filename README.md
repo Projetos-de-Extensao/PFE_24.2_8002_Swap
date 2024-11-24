@@ -32,8 +32,5 @@ Por agora os requisitos para rodar nosso programa é ter o VSCODE, com algumas d
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Vídeo
-Adicione 1 ou mais vídeos com a execução do projeto final.
-
 ## Outros 
 Todas as informações e scripts podem ser encontrados aqui no github do projeto.
