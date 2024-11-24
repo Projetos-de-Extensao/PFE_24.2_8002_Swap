@@ -7,6 +7,10 @@ function ContentArea() {
   const [searchTerm, setSearchTerm] = useState('');
   const [filteredFeed, setFilteredFeed] = useState([]);
 
+  const goToVideo = () => {
+    navigate('/video');
+  };
+
   useEffect(() => {
     const fetchFeed = async () => {
       const response = await fetch('http://127.0.0.1:8000/api/feeds/?format=json');
@@ -47,7 +51,7 @@ function ContentArea() {
 
       <div className="video-grid">
         {filteredFeed.map((item) => (
-          <div className="video-card" key={item.id}>
+          <div className="video-card" key={item.id} onClick={goToVideo}>
             <div className="thumbnail">Thumbnail Vídeo</div>
             <div className="title" title={item.titulo}>{item.titulo}</div>
             <div className="creator-info">Usuário Upload: {item.usuario}</div>

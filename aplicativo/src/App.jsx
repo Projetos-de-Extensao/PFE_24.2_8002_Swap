@@ -5,6 +5,7 @@ import Login from './Login';
 import Cadastro from './Cadastro';
 import Feed from './Feed';
 import  Perfil from './Perfil';
+import VideoVisualizer from './VideoVisualizer';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Route path="/cadastro" element={<Cadastro />} />
       <Route path="/feed" element={<Feed />} />
       <Route path="/perfil" element={<Perfil />} />
+      <Route path="/video" element={<VideoVisualizer />} />
 
     </Routes>
   );
