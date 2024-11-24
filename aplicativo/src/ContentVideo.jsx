@@ -24,23 +24,32 @@ function ContentVideo() {
     const firstItem = video.length > 0 ? video[0] : null;
     const userData = user.length > 0 ? user[0] : null;  // Acessando o primeiro item do array 'user'
 
-    return (
-      <div className="content-area">
-        {firstItem ? (
-            <div className="video-visualizer-card" key={firstItem.id}>
-            <div className="video-visualizer-thumbnail"><FaPlay size={40} /></div>
-            <div className="title-video" title={firstItem.titulo}>{firstItem.titulo}</div>
-            {/* Verificando se 'userData.usuario' está disponível */}
-            <div className="creator-info-video">
-                {userData && userData.usuario ? userData.usuario.username : 'Carregando...'}
-            </div>
-            <div className="description">{firstItem.descricao}</div>
-            </div>
-        ) : (
-            <p>Nenhum vídeo encontrado.</p>
-        )}
+return (
+  <div className="content-area">
+    {firstItem ? (
+      <div className="video-visualizer-card" key={firstItem.id}>
+        <div className="video-visualizer-thumbnail">
+          <FaPlay size={40} />
+        </div>
+        <div className="video-infos">
+          <div className="title-video" title={firstItem.titulo}>
+            {firstItem.titulo}
+          </div>
+          <button className="btn-swap">SWAP</button>
+        </div>
+        <div className="creator-info-video">
+          {userData && userData.usuario ? userData.usuario.username : "Carregando..."}
+        </div>
+        <div className="description">{firstItem.descricao}</div>
       </div>
-    );
+    ) : (
+      <p>Nenhum vídeo encontrado.</p>
+    )}
+  </div>
+);
+
 }
+
+
 
 export default ContentVideo;
