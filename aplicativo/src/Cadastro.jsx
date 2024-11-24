@@ -1,7 +1,14 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import './App.css';
 
 function Cadastro() {
+  const navigate = useNavigate();
+
+  const goToHome = () => {
+    navigate('/');
+  };
+
   return (
     <div className="container">
       <div className="loader">
@@ -21,7 +28,7 @@ function Cadastro() {
         <label>Senha</label>
         <input type="password" placeholder="Insira sua Senha..." />
 
-        <button className="button full-width">Cadastrar</button>
+        <button className="button full-width" onClick={goToHome}>Cadastrar</button>
 
       </div>
     </div>
