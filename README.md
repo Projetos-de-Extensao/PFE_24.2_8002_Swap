@@ -15,7 +15,14 @@
 Swap é um aplicativo de troca de habilidades, de conhecimento, onde os usuários terão a possibilidade de postar "aulas" sobre assuntos diversos nos quais tem domínio, com o conteúdo postado, os outros usuários poderão entrar com uma troca do conteúdo por algo que os mesmos criaram do próprio interesse.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
+### Feed
+[![Prototipo 1](../assets/paginasimplementadas/feed.png)](../assets/paginasimplementadas/feed.png)
+
+### Perfil
+[![Prototipo 2](../assets/paginasimplementadas/perfil.png)](../assets/paginasimplementadas/perfil.png)
+
+### Player
+[![Prototipo 3](../assets/paginasimplementadas/player.png)](../assets/paginasimplementadas/player.png)
 
 ## Instalação 
 **Linguagens**: JavaScript, CSS e HTML<br>
