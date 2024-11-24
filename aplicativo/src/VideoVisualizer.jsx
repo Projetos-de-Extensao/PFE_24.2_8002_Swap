@@ -1,6 +1,7 @@
 import React from 'react';
 import Sidebar from './Sidebar';
 import ContentVideo from './ContentVideo';
+import './Video.css';
 
 function VideoVisualizer() {
     return (

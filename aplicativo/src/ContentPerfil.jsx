@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { FaSearch } from 'react-icons/fa';
+import { useNavigate } from 'react-router-dom';
 import './Perfil.css';
 
 function ContentPerfil() {
@@ -7,6 +8,13 @@ function ContentPerfil() {
   const [searchTerm, setSearchTerm] = useState('');
   const [filteredFeed, setFilteredFeed] = useState([]);
   const [perfil, setPerfil] = useState(null);
+
+  const navigate = useNavigate();
+
+  const goToVideo = () => {
+    navigate('/video');
+  };
+
   useEffect(() => {
     const fetchFeedAndPerfil = async () => {
       const feedResponse = await fetch('http://127.0.0.1:8000/api/feeds/?format=json');
@@ -74,7 +82,7 @@ function ContentPerfil() {
 
       <div className="video-grid">
         {filteredFeed.map((item) => (
-          <div className="video-card" key={item.id}>
+          <div className="video-card" key={item.id} onClick={goToVideo}>
             <div className="thumbnail">Thumbnail Vídeo</div>
             <div className="title" title={item.titulo}>{item.titulo}</div>
             <div className="creator-info">Usuário Upload: {item.usuario}</div>
