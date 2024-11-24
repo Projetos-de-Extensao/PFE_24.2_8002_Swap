@@ -18,10 +18,9 @@ Swap é um aplicativo de troca de habilidades, de conhecimento, onde os usuário
 Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
 
 ## Instalação 
-**Linguagens**: xxxxxx<br>
-**Tecnologias**: xxxxxx<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-Insira um manual ou um script para auxiliar ainda mais.
+**Linguagens**: JavaScript, CSS e HTML<br>
+**Tecnologias**: VSCODE, React e Node<br>
+Por agora os requisitos para rodar nosso programa é ter o VSCODE, com algumas dependências instaladas, como React, Node, Java Script e ter os scripts de implementação.
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
@@ -30,4 +29,4 @@ Explique como usar seu projeto caso haja algum passo a passo após o comando de 
 Adicione 1 ou mais vídeos com a execução do projeto final.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Todas as informações e scripts podem ser encontrados aqui no github do projeto.
