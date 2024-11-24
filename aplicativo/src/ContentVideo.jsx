@@ -29,9 +29,9 @@ function ContentVideo() {
         {firstItem ? (
             <div className="video-visualizer-card" key={firstItem.id}>
             <div className="video-visualizer-thumbnail"><FaPlay size={40} /></div>
-            <div className="title" title={firstItem.titulo}>{firstItem.titulo}</div>
+            <div className="title-video" title={firstItem.titulo}>{firstItem.titulo}</div>
             {/* Verificando se 'userData.usuario' está disponível */}
-            <div className="creator-info">
+            <div className="creator-info-video">
                 {userData && userData.usuario ? userData.usuario.username : 'Carregando...'}
             </div>
             <div className="description">{firstItem.descricao}</div>
